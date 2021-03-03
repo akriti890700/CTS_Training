@@ -15,13 +15,16 @@ namespace CustomerCommTests
         Mock<IMailSender> mockMailSender;
 
         CustomerComm custTest;
+        [OneTimeSetUp]
+        public void init()
+        {
+            mockMailSender = new Mock<IMailSender>();
+            mockMailSender.Setup(x => x.SendMail(It.IsAny<string>(), It.IsAny<string>())).Returns(true);
+        }
 
         [Test]
         public void TestMethod()
-        {
-            mockMailSender = new Mock<IMailSender>();
-            mockMailSender.Setup(x => x.SendMail("cust123@abc.com", "Some Message")).Returns(true);
-
+        {   
             custTest = new CustomerComm(mockMailSender.Object);
             var result = custTest.SendMailToCustomer();
 
