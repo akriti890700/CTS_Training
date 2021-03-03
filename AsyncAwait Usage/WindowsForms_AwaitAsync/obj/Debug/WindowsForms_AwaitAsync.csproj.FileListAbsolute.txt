@@ -1,0 +1,10 @@
+C:\Users\890700\source\repos\WindowsForms_AwaitAsync\bin\Debug\WindowsForms_AwaitAsync.exe.config
+C:\Users\890700\source\repos\WindowsForms_AwaitAsync\bin\Debug\WindowsForms_AwaitAsync.exe
+C:\Users\890700\source\repos\WindowsForms_AwaitAsync\bin\Debug\WindowsForms_AwaitAsync.pdb
+C:\Users\890700\source\repos\WindowsForms_AwaitAsync\obj\Debug\WindowsForms_AwaitAsync.csprojAssemblyReference.cache
+C:\Users\890700\source\repos\WindowsForms_AwaitAsync\obj\Debug\WindowsForms_AwaitAsync.Form1.resources
+C:\Users\890700\source\repos\WindowsForms_AwaitAsync\obj\Debug\WindowsForms_AwaitAsync.Properties.Resources.resources
+C:\Users\890700\source\repos\WindowsForms_AwaitAsync\obj\Debug\WindowsForms_AwaitAsync.csproj.GenerateResource.cache
+C:\Users\890700\source\repos\WindowsForms_AwaitAsync\obj\Debug\WindowsForms_AwaitAsync.csproj.CoreCompileInputs.cache
+C:\Users\890700\source\repos\WindowsForms_AwaitAsync\obj\Debug\WindowsForms_AwaitAsync.exe
+C:\Users\890700\source\repos\WindowsForms_AwaitAsync\obj\Debug\WindowsForms_AwaitAsync.pdb

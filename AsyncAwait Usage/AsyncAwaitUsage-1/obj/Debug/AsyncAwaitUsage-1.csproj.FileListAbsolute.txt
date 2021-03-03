@@ -1,0 +1,7 @@
+C:\Users\890700\source\repos\AsyncAwaitUsage-1\bin\Debug\AsyncAwaitUsage-1.exe.config
+C:\Users\890700\source\repos\AsyncAwaitUsage-1\bin\Debug\AsyncAwaitUsage-1.exe
+C:\Users\890700\source\repos\AsyncAwaitUsage-1\bin\Debug\AsyncAwaitUsage-1.pdb
+C:\Users\890700\source\repos\AsyncAwaitUsage-1\obj\Debug\AsyncAwaitUsage-1.csprojAssemblyReference.cache
+C:\Users\890700\source\repos\AsyncAwaitUsage-1\obj\Debug\AsyncAwaitUsage-1.csproj.CoreCompileInputs.cache
+C:\Users\890700\source\repos\AsyncAwaitUsage-1\obj\Debug\AsyncAwaitUsage-1.exe
+C:\Users\890700\source\repos\AsyncAwaitUsage-1\obj\Debug\AsyncAwaitUsage-1.pdb
