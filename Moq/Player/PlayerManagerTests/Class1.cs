@@ -21,8 +21,8 @@ namespace PlayerManagerTests
         }
         
         [Test]
-        [TestCase("King")]
-        [TestCase("Kohli")]
+        [TestCase("ABC")]
+        [TestCase("XYZ")]
         public void TestPlayer(string name)
         {  
             Player p = Player.RegisterNewPlayer(name, mockPlayerMapper.Object);

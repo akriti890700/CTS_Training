@@ -1,0 +1,8 @@
+C:\Users\890700\source\repos\CodeAnalysisSample\bin\Debug\CodeAnalysisSample.exe.config
+C:\Users\890700\source\repos\CodeAnalysisSample\bin\Debug\CodeAnalysisSample.exe
+C:\Users\890700\source\repos\CodeAnalysisSample\bin\Debug\CodeAnalysisSample.pdb
+C:\Users\890700\source\repos\CodeAnalysisSample\bin\Debug\CodeAnalysisSample.exe.CodeAnalysisLog.xml
+C:\Users\890700\source\repos\CodeAnalysisSample\bin\Debug\CodeAnalysisSample.exe.lastcodeanalysissucceeded
+C:\Users\890700\source\repos\CodeAnalysisSample\obj\Debug\CodeAnalysisSample.csproj.CoreCompileInputs.cache
+C:\Users\890700\source\repos\CodeAnalysisSample\obj\Debug\CodeAnalysisSample.exe
+C:\Users\890700\source\repos\CodeAnalysisSample\obj\Debug\CodeAnalysisSample.pdb
