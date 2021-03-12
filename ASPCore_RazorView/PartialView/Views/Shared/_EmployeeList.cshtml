@@ -1,0 +1,75 @@
+﻿@model IEnumerable<RazorViewModelBinding.Models.Employee>
+<div class="row">
+    <span class="col-md-2">
+        <b>
+            @Html.DisplayNameFor(model => model.Id)
+        </b>
+    </span>
+    <span class="col-md-2">
+        <b>
+            @Html.DisplayNameFor(model => model.Name)
+        </b>
+    </span>
+    <span class="col-md-2">
+        <b>
+            @Html.DisplayNameFor(model => model.Salary)
+        </b>
+    </span>
+    <span class="col-md-2">
+        <b>
+            @Html.DisplayNameFor(model => model.IsParmanent)
+        </b>
+    </span>
+</div>
+<br />
+@foreach (var item in Model)
+{
+    if (item.IsParmanent == true)
+    {
+         <div class="row">
+            <span class="col-md-2">
+                <b>
+                    @Html.DisplayFor(modelItem => item.Id)
+                </b>
+            </span>
+            <span class="col-md-2">
+                <b>
+                    @Html.DisplayFor(modelItem => item.Name)
+                </b>
+            </span>
+            <span class="col-md-2">
+                <b>
+                    @Html.DisplayFor(modelItem => item.Salary)
+                </b>
+            </span>
+            <span class="col-md-2">
+                <b>
+                    @Html.DisplayFor(modelItem => item.IsParmanent)
+                </b>
+            </span>
+        </div>
+      <br /> 
+                    
+    }
+                                    
+    else                                   
+    {
+    <div class="row">
+        <span class="col-md-2">
+            @Html.DisplayFor(modelItem => item.Id)
+        </span>
+        <span class="col-md-2">
+            @Html.DisplayFor(modelItem => item.Name)
+        </span>
+        <span class="col-md-2">
+            @Html.DisplayFor(modelItem => item.Salary)
+        </span>
+        <span class="col-md-2">
+            @Html.DisplayFor(modelItem => item.IsParmanent)
+        </span>
+    </div>
+                                        
+    <br />
+    }
+                                                 
+}
